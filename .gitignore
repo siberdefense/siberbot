@@ -1,0 +1,6 @@
+bot_token.key
+logs/*
+venv/*
+__pycache__/
+*.pyc
+.vscode
